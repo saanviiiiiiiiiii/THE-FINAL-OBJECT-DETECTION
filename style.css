@@ -1,0 +1,37 @@
+body 
+{
+    background-size: cover;
+}
+.heading
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: magenta;
+}
+#start ,#number_of_objects ,#status
+{
+    font-size: 18px;
+    font-family: 'Lobster Two', cursive;
+    color: magenta;
+}
+.copy_right_footer
+{
+   position: fixed;
+   color: aliceblue;
+   bottom: 0%;
+   width: 100%;
+   background-color: peachpuff;
+   line-height: 3;
+   text-align: center;
+}
+canvas 
+{
+    border:2px solid papayawhip;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px powderblue;
+}
